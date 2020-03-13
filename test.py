@@ -10,7 +10,7 @@ elif c=="/":
 elif c=="*":
 	d=a*b
 
-print(d)
+print(dddd)
 
 
 
